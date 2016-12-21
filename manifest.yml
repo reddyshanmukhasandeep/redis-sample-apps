@@ -1,0 +1,8 @@
+---
+applications:
+- name:    redis-app-sample-dec
+  host:    redis-app-sample12345678
+  memory:  128M
+  instances: 1
+  random-route: true
+
